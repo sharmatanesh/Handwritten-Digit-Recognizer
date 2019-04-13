@@ -1,7 +1,7 @@
 # Handwritten-Digit-Recognizer
 Code for Python digit recognizer starter comptetition. http://www.kaggle.com/c/digit-recognizer
 
-benchmark sklearn Decision Tree Classifer, cover_tree gives 0.85 accuracy while benchmark RandomForest gives 0.95 accuracy
+benchmark sklearn Decision Tree Classifer, cover_tree gives 0.8355 accuracy while benchmark RandomForest gives 0.9582 accuracy
 
 Test and Train data is taken from http://www.kaggle.com/c/digit-recognizer
 
